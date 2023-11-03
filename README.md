@@ -16,6 +16,10 @@ Our team has been tasked to model and create a relational database for the opera
 ## Data Model:
 Data Model Explanation:
 
+Our model works to ensure a good flow to serve the 3 main entities: courts, members, and employees. A club can have multiple courts that can be utilized in different ways. Maintenance Employees can log the times they will service the courts, members can schedule Sessions for the Lessons with their coaches, and they can make reservations on their own. This is all connected to the Courts table that allows the Tennis Club to see all activities going on within those courts. 
+Employees belong to different Departments. Maintenance Employees are connected to the courts through Services, and Coaches can make Lessons, which are connected to the courts through Session, with their students. 
+The club has many members. They are Billed individually and can be in Teams. Members can also rent out equipment needed to use at the courts. They can make reservations with the courts to practice either by themselves or for their teams, and they can join a Session to get Lessons with their coach. 
+
 <img width="852" alt="UpdatedDataModel" src="https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/ca2dcc0d-4660-4b4f-974b-4c497db45a86">
 
 ## Data Dictionary:
