@@ -6,7 +6,7 @@
 39217 Group 6
 ## Team Members:
 1. David Tran [@dstudent17](https://github.com/dstudent17)
-2. Nick Kalenik
+2. Nick Kalenik [@NickKalenik](https://github.com/NickKalenik)
 3. Minathi Mekala [@minathi11](https://github.com/minathi11)
 4. Ngoc Nguyen [@ngocpn1](https://github.com/ngocpn1)
 5. Anthony Ramage [@anthonyramage](https://github.com/anthonyramage)
