@@ -66,6 +66,7 @@ Query 9 can be used by management to quickly see what all employees in each depa
 10. Query 10 will display how many rackets the club has.
     
 ![Query10SS](https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/aa4c6c93-ed78-4322-9268-98f2233458dd)
+
 Query 10 can be helpful to management by providing a quick glance at the quantity of rackets in stock. If they need to purchase more or less, this query can assist them.
 
 
