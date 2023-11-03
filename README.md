@@ -19,7 +19,7 @@ Data Model Explanation:
 <img width="852" alt="UpdatedDataModel" src="https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/ca2dcc0d-4660-4b4f-974b-4c497db45a86">
 
 ## Data Dictionary:
-![Screenshot 2023-11-03 at 3 46 30 PM](https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/f822c3f4-7c6e-427e-a045-7348f6c2d6df)
+![DataDictionaryFinal](https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/82f1212d-230e-4d07-949f-4957ba43e45e)
 
 ## Queries:
 
