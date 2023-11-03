@@ -16,9 +16,7 @@ Our team has been tasked to model and create a relational database for the opera
 ## Data Model:
 Data Model Explanation:
 
-
-![Screenshot 2023-11-03 at 3 37 34 PM](https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/23f8f4cc-82d0-469a-9ea8-a6de484cc7cb)
-
+<img width="852" alt="UpdatedDataModel" src="https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/ca2dcc0d-4660-4b4f-974b-4c497db45a86">
 
 ## Data Dictionary:
 ![Screenshot 2023-11-03 at 3 46 30 PM](https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/f822c3f4-7c6e-427e-a045-7348f6c2d6df)
